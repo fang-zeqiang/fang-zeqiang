@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱  I’m currently learning JavaScript (mainly in data visualisation)
+<img align="right" src="
+https://github-readme-stats.vercel.app/api?username=fang-zeqiang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
+### 👨‍🚒 About me
+
+- 🌱 I’m currently learning JavaScript (mainly in data visualisation)
+- Welcome to see my projects
+  - [Spatial Analysis: EV Charging Points in London Boroughs](https://zeqiang.fun/_book/)
+  - [Individual Visualisation: 2013 AWS Honeypot Attacks in USA](https://zeqiang.fun/2013_AWS_Honeypot_Attacks_Visualisation/)
+  - [Project Abeona: Road Safety Studying from traffic accidents in London](https://casa-ucl.github.io/casa0017---final-group-assignment-jedi/demoSite/index.html)
+
