@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning JavaScript (mainly in data visualisation)
 - Welcome to see my projects
-  - [Spatial Analysis: EV Charging Points in London Boroughs](https://zeqiang.fun/_book/)
-  - [Individual Visualisation: 2013 AWS Honeypot Attacks in USA](https://zeqiang.fun/2013_AWS_Honeypot_Attacks_Visualisation/)
-  - [Project Abeona: Road Safety Studying from traffic accidents in London](https://casa-ucl.github.io/casa0017---final-group-assignment-jedi/demoSite/index.html)
+  - [Spatial Analysis: London EV Charging Points](https://zeqiang.fun/_book/)
+  - [2013 AWS Honeypot Attacks in USA](https://zeqiang.fun/2013_AWS_Honeypot_Attacks_Visualisation/)
+  - [Project Abeona: Road Safety in London](https://casa-ucl.github.io/casa0017---final-group-assignment-jedi/demoSite/index.html)
 
