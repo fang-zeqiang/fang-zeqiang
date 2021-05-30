@@ -23,4 +23,6 @@ Here are some ideas to get you started:
   - [Spatial Analysis: London EV Charging Points](https://zeqiang.fun/_book/)
   - [2013 AWS Honeypot Attacks in USA](https://zeqiang.fun/2013_AWS_Honeypot_Attacks_Visualisation/)
   - [Project Abeona: Road Safety in London](https://casa-ucl.github.io/casa0017---final-group-assignment-jedi/demoSite/index.html)
+  - [Cycling in Toronto](https://zeqiang.fun/Digital-Viz-City-Transformations/Website/)
+ 
 
