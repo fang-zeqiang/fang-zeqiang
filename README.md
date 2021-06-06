@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### 👨‍🚒 About me
 
 - 🌱 I’m currently learning JavaScript (mainly in data visualisation)
+- 🔭 working on my master dissertation (quantitative method)
 - Welcome to see my projects
   - [Spatial Analysis: London EV Charging Points](https://zeqiang.fun/_book/)
   - [2013 AWS Honeypot Attacks in USA](https://zeqiang.fun/2013_AWS_Honeypot_Attacks_Visualisation/)
