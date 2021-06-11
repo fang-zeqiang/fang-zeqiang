@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript (mainly in data visualisation)
 - 🔭 working on my master dissertation (quantitative method)
 - Welcome to see my projects
-  - [Spatial Analysis: London EV Charging Points](https://zeqiang.fun/_book/)
+  - [Spatial Analysis: London EV Charging Points](https://zeqiang.fun/London_EV_charging_infrastrcture_spatial_analysis/book/index.html)
   - [2013 AWS Honeypot Attacks in USA](https://zeqiang.fun/2013_AWS_Honeypot_Attacks_Visualisation/)
   - [Project Abeona: Road Safety in London](https://casa-ucl.github.io/casa0017---final-group-assignment-jedi/demoSite/index.html)
   - [Digital Visualisation: Cycling in Toronto](https://zeqiang.fun/Digital-Viz-City-Transformations/Website/)
